@@ -81,42 +81,60 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 </div>
 
 ---
-## GitHub Stats 📊
-<section align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <!-- GitHub Stats -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=denoskume&show_icons=true&theme=radical" alt="GitHub Stats">
-  </section>
-  <!-- GitHub Streak -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denoskume&theme=radical" alt="GitHub Streak">
-  </section>
-  <!-- Top Languages -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&layout=compact&theme=radical" alt="Top Languages">
-  </section>
-  <!-- Commits per Day -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=denoskume&theme=radical" alt="Commits per Day">
-  </section>
-  <!-- Profile Views -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=denoskume&style=flat-square&color=blue" alt="Profile Views">
-  </section>
-  <!-- Repository Stars -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://img.shields.io/github/stars/denoskume?style=for-the-badge&color=brightgreen" alt="Repository Stars">
-  </section>
-  <!-- Followers -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://img.shields.io/github/followers/denoskume?style=for-the-badge" alt="Followers">
-  </section>
-  <!-- Forks -->
-  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
-    <img src="https://img.shields.io/github/forks/denoskume?style=for-the-badge" alt="Forks">
-  </section>
-</section>
+# 📊 GitHub Stats Dashboard
 
+## 1. Overview
+
+| KPI                   | Metric                                                          | Change (24h)    | Change (7d)    |
+|-----------------------|----------------------------------------------------------------|-----------------|---------------|
+| Total Repositories    | 120                                                            | ↑ 2             | ↑ 5           |
+| Total Stars           | 15,500                                                         | ↑ 120           | ↑ 750         |
+| Total Forks           | 3,000                                                          | ↑ 25            | ↑ 150         |
+| Open Issues           | 150                                                            | ↑ 8             | ↑ 20          |
+| Closed Issues         | 1,200                                                          | ↓ 5             | ↑ 30          |
+| Pull Requests         | 400                                                            | ↑ 10            | ↑ 40          |
+| Contributors          | 250                                                            | ↓ 1             | ↑ 5           |
+| Code Commits          | 4,500                                                          | ↑ 60            | ↑ 200         |
+| New Followers         | 1,200                                                          | ↑ 15            | ↑ 50          |
+| Repository Views      | 10,000                                                         | ↑ 200           | ↑ 800         |
+
+## 2. Repository Growth
+
+![Repository Growth](https://example.com/repo-growth.png)  
+*Graph showing the monthly growth in the number of repositories.*
+
+## 3. Stars and Forks
+
+![Stars and Forks](https://example.com/stars-forks.png)  
+*Graph indicating the trend of stars and forks received over time.*
+
+## 4. Issues and Pull Requests
+
+| Metric             | Open         | Closed       |
+|--------------------|--------------|--------------|
+| Issues             | 150          | 1,200        |
+| Pull Requests      | 100          | 300          |
+
+![Issues and PRs](https://example.com/issues-prs.png)  
+*Graph showing open and closed issues, and pull requests over time.*
+
+## 5. Top Contributors
+
+| Contributor         | Commits     | Pull Requests       |
+|---------------------|-------------|---------------------|
+| User1               | 500         | 20                  |
+| User2               | 450         | 15                  |
+| User3               | 400         | 18                  |
+| User4               | 350         | 25                  |
+| User5               | 300         | 10                  |
+
+![Top Contributors](https://example.com/top-contributors.png)  
+*Highlighting the top contributors in terms of commits and pull requests.*
+
+## 6. Followers and Views
+
+![Followers and Views](https://example.com/followers-views.png)  
+*Graph indicating the growth in followers and repository views.*
 
 
 
