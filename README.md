@@ -81,6 +81,44 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 </div>
 
 ---
+## GitHub Stats 📊
+<section align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- GitHub Stats -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=denoskume&show_icons=true&theme=radical" alt="GitHub Stats">
+  </section>
+  <!-- GitHub Streak -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=denoskume&theme=radical" alt="GitHub Streak">
+  </section>
+  <!-- Top Languages -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&layout=compact&theme=radical" alt="Top Languages">
+  </section>
+  <!-- Commits per Day -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=denoskume&theme=radical" alt="Commits per Day">
+  </section>
+  <!-- Profile Views -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=denoskume&style=flat-square&color=blue" alt="Profile Views">
+  </section>
+  <!-- Repository Stars -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://img.shields.io/github/stars/denoskume?style=for-the-badge&color=brightgreen" alt="Repository Stars">
+  </section>
+  <!-- Followers -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://img.shields.io/github/followers/denoskume?style=for-the-badge" alt="Followers">
+  </section>
+  <!-- Forks -->
+  <section style="flex: 1; background-color: #f8f9fa; border-radius: 20px; margin: 10px; padding: 20px;">
+    <img src="https://img.shields.io/github/forks/denoskume?style=for-the-badge" alt="Forks">
+  </section>
+</section>
+
+
+
 
 <p align="center">
   👨‍💻 Built with ❤️ by Denos Kume
