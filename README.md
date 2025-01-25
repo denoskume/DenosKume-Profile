@@ -81,63 +81,25 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 </div>
 
 ---
-# 📊 GitHub Stats Dashboard
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=denoskume&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;">
 
-## 1. Overview
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
 
-| KPI                   | Metric                                                          | Change (24h)    | Change (7d)    |
-|-----------------------|----------------------------------------------------------------|-----------------|---------------|
-| Total Repositories    | 120                                                            | ↑ 2             | ↑ 5           |
-| Total Stars           | 15,500                                                         | ↑ 120           | ↑ 750         |
-| Total Forks           | 3,000                                                          | ↑ 25            | ↑ 150         |
-| Open Issues           | 150                                                            | ↑ 8             | ↑ 20          |
-| Closed Issues         | 1,200                                                          | ↓ 5             | ↑ 30          |
-| Pull Requests         | 400                                                            | ↑ 10            | ↑ 40          |
-| Contributors          | 250                                                            | ↓ 1             | ↑ 5           |
-| Code Commits          | 4,500                                                          | ↑ 60            | ↑ 200         |
-| New Followers         | 1,200                                                          | ↑ 15            | ↑ 50          |
-| Repository Views      | 10,000                                                         | ↑ 200           | ↑ 800         |
+<!-- GitHub Trophies Card -->
+<a href="https://github.com/denoskume"><img src="https://github-profile-trophy.vercel.app/?username=denoskume&theme=radical" alt="GitHub Trophies" style="margin: 10px;"></a>
 
-## 2. Repository Growth
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=denoskume&theme=radical" alt="Streak Stats" style="margin: 10px;">
 
-![Repository Growth](https://example.com/repo-growth.png)  
-*Graph showing the monthly growth in the number of repositories.*
+<!-- Contribution Graph Card -->
+<img src="https://activity-graph.herokuapp.com/graph?username=denoskume&theme=radical" alt="Contribution Graph" style="margin: 10px;">
 
-## 3. Stars and Forks
+<!-- Repository Stats Card (replace 'Super-Repo' with your repository name) -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=denoskume&repo=Super-Repo&theme=radical" alt="Super-Repo" style="margin: 10px;">
 
-![Stars and Forks](https://example.com/stars-forks.png)  
-*Graph indicating the trend of stars and forks received over time.*
-
-## 4. Issues and Pull Requests
-
-| Metric             | Open         | Closed       |
-|--------------------|--------------|--------------|
-| Issues             | 150          | 1,200        |
-| Pull Requests      | 100          | 300          |
-
-![Issues and PRs](https://example.com/issues-prs.png)  
-*Graph showing open and closed issues, and pull requests over time.*
-
-## 5. Top Contributors
-
-| Contributor         | Commits     | Pull Requests       |
-|---------------------|-------------|---------------------|
-| User1               | 500         | 20                  |
-| User2               | 450         | 15                  |
-| User3               | 400         | 18                  |
-| User4               | 350         | 25                  |
-| User5               | 300         | 10                  |
-
-![Top Contributors](https://example.com/top-contributors.png)  
-*Highlighting the top contributors in terms of commits and pull requests.*
-
-## 6. Followers and Views
-
-![Followers and Views](https://example.com/followers-views.png)  
-*Graph indicating the growth in followers and repository views.*
-
-
-
+---
 <p align="center">
   👨‍💻 Built with ❤️ by Denos Kume
 </p>
