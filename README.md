@@ -60,41 +60,55 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/Thesis%20Analysis-Advanced-green?style=for-the-badge" alt="Thesis Analysis">
   </div>
 </div>
+
+
 ---
+
 ## Skills 💼
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <div style="margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; width: 220px; background-color: #f9f9f9;">
-    <h3>Programming</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<div align="center">
+  <div style="margin: 10px;">
+    <h3>Programming 💻</h3>
+    <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java" alt="Java">
+    <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=sqlite" alt="SQL">
+    <img src="https://img.shields.io/badge/PHP-Beginner-red?style=for-the-badge&logo=php" alt="PHP">
   </div>
-  <div style="margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; width: 220px; background-color: #f9f9f9;">
-    <h3>Data Manipulation and Visualization</h3>
-    <img src="https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Data Analysis" />
-    <img src="https://img.shields.io/badge/Data%20Cleaning-Expert-brightgreen?style=for-the-badge" alt="Data Cleaning" />
-    <img src="https://img.shields.io/badge/Data%20Visualization-Expert-brightgreen?style=for-the-badge" alt="Data Visualization" />
-    <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Statistical Analysis" />
-    <img src="https://img.shields.io/badge/Data%20Modelling-Expert-brightgreen?style=for-the-badge" alt="Data Modelling" />
-    <img src="https://img.shields.io/badge/Data%20Preparation-Expert-brightgreen?style=for-the-badge" alt="Data Preparation" />
+  <div style="margin: 10px;">
+    <h3>Data Manipulation & Visualization 📊</h3>
+    <img src="https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Data Analysis">
+    <img src="https://img.shields.io/badge/Data%20Cleaning-Expert-brightgreen?style=for-the-badge" alt="Data Cleaning">
+    <img src="https://img.shields.io/badge/Data%20Visualization-Expert-brightgreen?style=for-the-badge" alt="Data Visualization">
+    <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-green?style=for-the-badge" alt="Statistical Analysis">
+    <img src="https://img.shields.io/badge/Data%20Modelling-Advanced-green?style=for-the-badge" alt="Data Modelling">
+    <img src="https://img.shields.io/badge/Data%20Preparation-Advanced-green?style=for-the-badge" alt="Data Preparation">
   </div>
-  <div style="margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; width: 220px; background-color: #f9f9f9;">
-    <h3>Tools and Technologies</h3>
-    <img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Power%20BI%20Service-FFD700?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI Service" />
-    <img src="https://img.shields.io/badge/Power%20Query-FFD700?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power Query" />
-    <img src="https://img.shields.io/badge/DAX-FFD700?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX" />
-    <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-    <img src="https://img.shields.io/badge/Jupyter-FFF475?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <div style="margin: 10px;">
+    <h3>Tools & Technologies 🛠️</h3>
+    <img src="https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI">
+    <img src="https://img.shields.io/badge/Power%20BI%20Service-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI Service">
+    <img src="https://img.shields.io/badge/Power%20Query-Advanced-green?style=for-the-badge" alt="Power Query">
+    <img src="https://img.shields.io/badge/DAX-Advanced-green?style=for-the-badge" alt="DAX">
+    <img src="https://img.shields.io/badge/Advanced%20Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel" alt="Advanced Excel">
+    <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=sqlite" alt="SQL">
+    <img src="https://img.shields.io/badge/MySQL-Advanced-green?style=for-the-badge&logo=mysql" alt="MySQL">
+    <img src="https://img.shields.io/badge/SQL%20Server-Advanced-green?style=for-the-badge&logo=microsoftsqlserver" alt="SQL Server">
+    <img src="https://img.shields.io/badge/Google%20Colab-Advanced-green?style=for-the-badge&logo=googlecolab" alt="Google Colab">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-green?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook">
   </div>
-  <!-- Add a fourth card as necessary with your next set of skills -->
+  <div style="margin: 10px;">
+    <h3>Programming Languages & Libraries 📚</h3>
+    <img src="https://img.shields.io/badge/Pandas-Advanced-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-Advanced-green?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-Advanced-green?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-Advanced-green?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/SciKit%20Learn-Intermediate-yellow?style=for-the-badge&logo=scikit-learn" alt="SciKit Learn">
+    <img src="https://img.shields.io/badge/Thesis%20Analysis-Advanced-green?style=for-the-badge" alt="Thesis Analysis">
+  </div>
 </div>
+
+
 ---
+
 
 ## Connect with Me 🌐
 - **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)
