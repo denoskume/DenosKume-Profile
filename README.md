@@ -69,7 +69,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
     </p>
   </section>
 </section>
----
+
 ## Connect with Me 🌐
 - **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)
 - **GitHub:** [Denos Kume](https://github.com/denoskume)
