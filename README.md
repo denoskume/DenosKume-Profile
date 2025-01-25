@@ -88,11 +88,6 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 </div>
 
 ---
-
-<!-- Annual Summary Card -->
-<a href="https://github.com/denoskume"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&theme=radical&hide_border=true&layout=compact" alt="Annual Summary" /></a>
-
----
 <p align="center">
   👨‍💻 Built with ❤️ by Denos Kume
 </p>
