@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/denoskume/portfolio.io/blob/main/images/bannerph.png" alt="Banner" width="100%">
+  <img src="https://github.com/denoskume/portfolio.io/blob/main/images/bnr.png" alt="Banner" width="100%">
 </p>
 
 <p align="left"><strong>Data Analyst • Aspiring Data Scientist</strong></p>
