@@ -20,9 +20,8 @@ My involvement with IEEE has provided me with numerous opportunities to engage w
 Driven by a deep passion for data science, I constantly seek to expand my knowledge and stay abreast of the latest developments in the field. My commitment to professional growth is reflected in my continuous pursuit of advanced certifications and participation in industry conferences. Looking ahead, I aim to contribute to transformative projects that harness the power of data to drive impactful decisions and innovations.
 
 ---
-
 ## Skills 💼
-<section style="width: 100%; display: flex; justify-content: space-between; gap: 20px;">
+<section style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
   <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
     <h3>Programming 💻</h3>
     <p>
@@ -70,12 +69,13 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
     </p>
   </section>
 </section>
+---
 
 
 
 ## Skills 💼
 <section style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="flex: 1; margin: 10px; background-color: #f8e2e7; border-radius: 20px; padding: 20px;">
     <h3>Programming 💻</h3>
     <p>
       <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python"><br>
@@ -84,7 +84,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/PHP-Beginner-red?style=for-the-badge&logo=php" alt="PHP">
     </p>
   </section>
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="flex: 1; margin: 10px; background-color: #e2f8e2; border-radius: 20px; padding: 20px;">
     <h3>Data Manipulation & Visualization 📊</h3>
     <p>
       <img src="https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Data Analysis"><br>
@@ -95,7 +95,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/Data%20Preparation-Advanced-green?style=for-the-badge" alt="Data Preparation">
     </p>
   </section>
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="flex: 1; margin: 10px; background-color: #e2e7f8; border-radius: 20px; padding: 20px;">
     <h3>Tools & Technologies 🛠️</h3>
     <p>
       <img src="https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI"><br>
@@ -110,7 +110,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-green?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook">
     </p>
   </section>
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="flex: 1; margin: 10px; background-color: #f8f3e2; border-radius: 20px; padding: 20px;">
     <h3>Programming Languages & Libraries 📚</h3>
     <p>
       <img src="https://img.shields.io/badge/Pandas-Advanced-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"><br>
