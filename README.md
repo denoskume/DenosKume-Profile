@@ -18,17 +18,13 @@ My involvement with IEEE has provided me with numerous opportunities to engage w
 Driven by a deep passion for data science, I constantly seek to expand my knowledge and stay abreast of the latest developments in the field. My commitment to professional growth is reflected in my continuous pursuit of advanced certifications and participation in industry conferences. Looking ahead, I aim to contribute to transformative projects that harness the power of data to drive impactful decisions and innovations.
 
 ### Skills
-<section>
-  <p>- **Data Analysis**</p>
-  <p>- **Data Visualization**</p>
-  <p>- **Machine Learning**</p>
-  <p>- **Python Programming**</p>
-  <p>- **SQL**</p>
-</section>
+- **Data Analysis**
+- **Data Visualization**
+- **Machine Learning**
+- **Python Programming**
+- **SQL**
 
 ### Connect with Me
-<section>
-  <p>- **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)</p>
-  <p>- **GitHub:** [Denos Kume](https://github.com/denoskume)</p>
-  <p>- **Email:** [Your Email Address](#)</p>
-</section>
+- **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)
+- **GitHub:** [Denos Kume](https://github.com/denoskume)
+- **Email:** [Your Email Address](#)
