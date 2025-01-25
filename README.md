@@ -78,9 +78,14 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
   <img src="https://github-readme-stats.vercel.app/api?username=denoskume&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denoskume&theme=radical" alt="GitHub Streak" style="margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
+  <!-- GitHub Trophies Card -->
+<a href="https://github.com/denoskume"><img src="https://github-profile-trophy.vercel.app/?username=denoskume&theme=radical" alt="GitHub Trophies" style="margin: 10px;"></a>
 </div>
 
 ---
+
+
+
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=denoskume&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;">
 
@@ -98,6 +103,17 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 
 <!-- Repository Stats Card (replace 'Super-Repo' with your repository name) -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=denoskume&repo=Super-Repo&theme=radical" alt="Super-Repo" style="margin: 10px;">
+
+<!-- Annual Summary Card -->
+<a href="https://github.com/denoskume"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoskume&theme=radical&hide_border=true&layout=compact" alt="Annual Summary" /></a>
+
+<!-- Commits per Day Card -->
+<a href="https://github.com/denoskume"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denoskume&theme=radical" alt="Commits per Day" /></a>
+
+<!-- Contribution Calendar Card -->
+<a href="https://github.com/denoskume"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denoskume&theme=radical" alt="Contribution Calendar" /></a>
+
+
 
 ---
 <p align="center">
