@@ -2,13 +2,7 @@
   <img src="https://github.com/denoskume/portfolio.io/blob/main/images/bannerph.png" alt="Banner" width="100%">
 </p>
 
-<p align="left">
-  <img src="https://github.com/denoskume/dedoole/blob/main/images/logooo.png" alt="Profile Photo" width="40px" style="border-radius: 50%;">
-</p>
-
-# <p align="center">👋 Hello, I'm Denos Kume!</p>
-
-<p align="center"><strong>Data Analyst • Aspiring Data Scientist</strong></p>
+<p align="left"><strong>Data Analyst • Aspiring Data Scientist</strong></p>
 
 ## About Me 🌟
 I am an active IEEE Member with extensive experience in data analysis and leadership. I have served as Secretary of International Students at Kristu Jayanti College and as a Campus Ambassador at ISDC. Currently, I am undergoing data science training at Simplilearn, continuously enhancing my skills and knowledge in the field.
