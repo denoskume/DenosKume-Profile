@@ -1,23 +1,23 @@
-# <span style="font-size: 1.6em;">👋 Hello, I'm Denos Kume!</span>
+# ![Banner](https://github.com/YourUsername/YourRepository/assets/banner-image.png)
 
-<span style="font-size: 1.2em;">Data Analyst • Aspiring Data Scientist</span>
+<p align="center">
+  <img src="https://github.com/YourUsername/YourRepository/assets/profile-photo.png" width="200" />
+</p>
 
-### <span style="font-size: 1.0em;">About Me</span>
-<section>
-  <p>I am an active IEEE Member with extensive experience in data analysis and leadership. I have served as Secretary of International Students at Kristu Jayanti College and as a Campus Ambassador at ISDC. Currently, I am undergoing data science training at Simplilearn, continuously enhancing my skills and knowledge in the field.</p>
-</section>
+# 👋 Hello, I'm Denos Kume!
 
-### <span style="font-size: 1.0em;">Professional Background</span>
-<section>
-  <p>My involvement with IEEE has provided me with numerous opportunities to engage with cutting-edge research and industry trends, further honing my expertise in data analysis and technological advancements. At Kristu Jayanti College, my role as Secretary of International Students allowed me to develop strong intercultural communication skills, essential for understanding diverse perspectives and addressing global challenges. As a Campus Ambassador at ISDC, I built robust networks and advocated for educational initiatives that bridge the gap between academia and industry.</p>
-</section>
+<span>Data Analyst • Aspiring Data Scientist</span>
 
-### <span style="font-size: 1.0em;">Passion and Future Goals</span>
-<section>
-  <p>Driven by a deep passion for data science, I constantly seek to expand my knowledge and stay abreast of the latest developments in the field. My commitment to professional growth is reflected in my continuous pursuit of advanced certifications and participation in industry conferences. Looking ahead, I aim to contribute to transformative projects that harness the power of data to drive impactful decisions and innovations.</p>
-</section>
+### About Me
+I am an active IEEE Member with extensive experience in data analysis and leadership. I have served as Secretary of International Students at Kristu Jayanti College and as a Campus Ambassador at ISDC. Currently, I am undergoing data science training at Simplilearn, continuously enhancing my skills and knowledge in the field.
 
-### <span style="font-size: 1.0em;">Skills</span>
+### Professional Background
+My involvement with IEEE has provided me with numerous opportunities to engage with cutting-edge research and industry trends, further honing my expertise in data analysis and technological advancements. At Kristu Jayanti College, my role as Secretary of International Students allowed me to develop strong intercultural communication skills, essential for understanding diverse perspectives and addressing global challenges. As a Campus Ambassador at ISDC, I built robust networks and advocated for educational initiatives that bridge the gap between academia and industry.
+
+### Passion and Future Goals
+Driven by a deep passion for data science, I constantly seek to expand my knowledge and stay abreast of the latest developments in the field. My commitment to professional growth is reflected in my continuous pursuit of advanced certifications and participation in industry conferences. Looking ahead, I aim to contribute to transformative projects that harness the power of data to drive impactful decisions and innovations.
+
+### Skills
 <section>
   <p>- **Data Analysis**</p>
   <p>- **Data Visualization**</p>
@@ -26,9 +26,9 @@
   <p>- **SQL**</p>
 </section>
 
-### <span style="font-size: 1.0em;">Connect with Me</span>
+### Connect with Me
 <section>
-  <p>- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/denos-kume)</p>
-  <p>- **GitHub:** [Your GitHub Profile](#)</p>
+  <p>- **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)</p>
+  <p>- **GitHub:** [Denos Kume](https://github.com/denoskume)</p>
   <p>- **Email:** [Your Email Address](#)</p>
 </section>
