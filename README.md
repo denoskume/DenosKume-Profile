@@ -22,7 +22,6 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 ---
 ## Skills 💼
 <section style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
     <h3>Programming 💻</h3>
     <p>
       <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python"><br>
@@ -68,7 +67,6 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/Thesis%20Analysis-Advanced-green?style=for-the-badge" alt="Thesis Analysis">
     </p>
   </section>
-</section>
 
 ## Connect with Me 🌐
 - **LinkedIn:** [Denos Kume](https://www.linkedin.com/in/denos-kume)
