@@ -2,8 +2,8 @@
   <img src="https://github.com/denoskume/YourRepository/assets/banner-image.png" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/denoskume/dedoole/blob/main/images/newbaldwin.jpeg" alt="Profile Photo" width="200" style="border-radius: 50%;">
+<p align="left">
+  <img src="https://github.com/denoskume/dedoole/blob/main/images/logooo.png" alt="Profile Photo" width="40px" style="border-radius: 50%;">
 </p>
 
 # <p align="center">👋 Hello, I'm Denos Kume!</p>
