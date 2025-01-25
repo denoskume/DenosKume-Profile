@@ -1,0 +1,93 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+}
+
+.profile-photo-container {
+    margin-top: -100px;
+}
+
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+
+main {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 0 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #3e4a61;
+}
+
+p {
+    line-height: 1.6;
+    margin: 15px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px 0;
+}
+
+.badge {
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.badge.linkedin {
+    background: #0077b5;
+    color: #fff;
+}
+
+.badge.github {
+    background: #333;
+    color: #fff;
+}
+
+.badge.email {
+    background: #d14836;
+    color: #fff;
+}
+
+.github-stats {
+    display: block;
+    margin: 20px auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #3e4a61;
+    color: #fff;
+    margin-top: 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
