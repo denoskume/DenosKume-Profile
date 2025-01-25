@@ -20,7 +20,7 @@ My involvement with IEEE has provided me with numerous opportunities to engage w
 Driven by a deep passion for data science, I constantly seek to expand my knowledge and stay abreast of the latest developments in the field. My commitment to professional growth is reflected in my continuous pursuit of advanced certifications and participation in industry conferences. Looking ahead, I aim to contribute to transformative projects that harness the power of data to drive impactful decisions and innovations.
 ---
 ## Skills 💼
-<div align="left" style="display: flex; justify-content: space-between; flex-wrap: nowrap; gap: 20px;">
+<div align="left" style="display: block; justify-content: space-between; flex-wrap: nowrap; gap: 20px;">
   <div style="margin: 10px;">
     <h3>Programming 💻</h3>
     <p>
