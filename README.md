@@ -85,7 +85,17 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 <a href="https://github.com/denoskume"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denoskume&theme=radical" alt="Contribution Calendar" /></a>
   <!-- GitHub Trophies Card -->
 <a href="https://github.com/denoskume"><img src="https://github-profile-trophy.vercel.app/?username=denoskume&theme=radical" alt="GitHub Trophies" style="margin: 10px;"></a>
+
 </div>
+---
+<!-- Top Repo Stars Card -->
+<a href="https://github.com/denoskume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=denoskume&repo=Awesome-Project&theme=radical" alt="Top Repo Stars" style="margin: 10px;"></a>
+
+<!-- Recent Activity Card -->
+<a href="https://github.com/denoskume"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=denoskume&theme=radical" alt="Recent Activity" style="margin: 10px;"></a>
+
+<!-- Gists Card -->
+<a href="https://github.com/denoskume"><img src="https://github-readme-gist-stats.cyclic.app/api?username=denoskume&theme=radical" alt="Gists" style="margin: 10px;"></a>
 
 ---
 <p align="center">
