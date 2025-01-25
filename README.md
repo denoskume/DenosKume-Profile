@@ -68,6 +68,54 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
 <div align="center">
   <div style="margin: 10px;">
     <h3>Programming 💻</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python"><br>
+      <img src="https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java" alt="Java"><br>
+      <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=sqlite" alt="SQL"><br>
+      <img src="https://img.shields.io/badge/PHP-Beginner-red?style=for-the-badge&logo=php" alt="PHP">
+    </p>
+  </div>
+  <div style="margin: 10px;">
+    <h3>Data Manipulation & Visualization 📊</h3>
+    <img src="https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Data Analysis">
+    <img src="https://img.shields.io/badge/Data%20Cleaning-Expert-brightgreen?style=for-the-badge" alt="Data Cleaning">
+    <img src="https://img.shields.io/badge/Data%20Visualization-Expert-brightgreen?style=for-the-badge" alt="Data Visualization">
+    <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-green?style=for-the-badge" alt="Statistical Analysis">
+    <img src="https://img.shields.io/badge/Data%20Modelling-Advanced-green?style=for-the-badge" alt="Data Modelling">
+    <img src="https://img.shields.io/badge/Data%20Preparation-Advanced-green?style=for-the-badge" alt="Data Preparation">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Tools & Technologies 🛠️</h3>
+    <img src="https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI">
+    <img src="https://img.shields.io/badge/Power%20BI%20Service-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI Service">
+    <img src="https://img.shields.io/badge/Power%20Query-Advanced-green?style=for-the-badge" alt="Power Query">
+    <img src="https://img.shields.io/badge/DAX-Advanced-green?style=for-the-badge" alt="DAX">
+    <img src="https://img.shields.io/badge/Advanced%20Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel" alt="Advanced Excel">
+    <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=sqlite" alt="SQL">
+    <img src="https://img.shields.io/badge/MySQL-Advanced-green?style=for-the-badge&logo=mysql" alt="MySQL">
+    <img src="https://img.shields.io/badge/SQL%20Server-Advanced-green?style=for-the-badge&logo=microsoftsqlserver" alt="SQL Server">
+    <img src="https://img.shields.io/badge/Google%20Colab-Advanced-green?style=for-the-badge&logo=googlecolab" alt="Google Colab">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-green?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Programming Languages & Libraries 📚</h3>
+    <img src="https://img.shields.io/badge/Pandas-Advanced-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-Advanced-green?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-Advanced-green?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-Advanced-green?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/SciKit%20Learn-Intermediate-yellow?style=for-the-badge&logo=scikit-learn" alt="SciKit Learn">
+    <img src="https://img.shields.io/badge/Thesis%20Analysis-Advanced-green?style=for-the-badge" alt="Thesis Analysis">
+  </div>
+</div>
+---
+
+
+
+
+## Skills 💼
+<div align="center">
+  <div style="margin: 10px;">
+    <h3>Programming 💻</h3>
     <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java" alt="Java">
     <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=sqlite" alt="SQL">
