@@ -30,7 +30,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/PHP-Beginner-red?style=for-the-badge&logo=php" alt="PHP">
     </p>
   </section>
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="align:left; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
     <h3>Data Manipulation & Visualization 📊</h3>
     <p>
       <img src="https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen?style=for-the-badge" alt="Data Analysis"><br>
@@ -41,7 +41,7 @@ Driven by a deep passion for data science, I constantly seek to expand my knowle
       <img src="https://img.shields.io/badge/Data%20Preparation-Advanced-green?style=for-the-badge" alt="Data Preparation">
     </p>
   </section>
-  <section style="flex: 1; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
+  <section style="align:right; margin: 10px; background-color: #f8f9fa; border-radius: 20px; padding: 20px;">
     <h3>Tools & Technologies 🛠️</h3>
     <p>
       <img src="https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi" alt="Power BI"><br>
